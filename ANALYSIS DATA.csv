@@ -1,0 +1,195 @@
+Fever,Cough,Fatigue,Shortness of Breath,Loss of Taste,Loss of Smell,Sore Throat,Headache,Nausea,Vomiting,Seizures,Vision Problems,Speech Difficulties,Balance Problems,Personality Changes,Memory Loss,Confusion with Time or Place,Trouble Understanding Visual Images,New Problems with Words,Misplacing Things,Withdrawal from Work or Social Activities,Changes in Mood and Personality,Lump_in_breast,Breast_pain,Nipple_discharge,Skin_changes,Swelling_in_breast,Changes_in_nipple,Redness_or_pitting,,DISEASE
+fever,0,0,shortness of Breath,Loss of Taste,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,0,0,shortness of Breath,0,Loss of Smell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,cough,0,shortness of Breath,Loss of Taste,0,sore Throat,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,0,fatigue,shortness of Breath,0,0,sore Throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,0,0,0,0,0,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,cough,fatigue,0,0,Loss of Smell,sore Throat,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,fatigue,shortness of Breath,0,Loss of Smell,sore Throat,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,0,0,0,Loss of Taste,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,0,0,shortness of Breath,Loss of Taste,Loss of Smell,sore Throat,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,cough,0,0,Loss of Taste,Loss of Smell,sore Throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,cough,0,shortness of Breath,Loss of Taste,0,sore Throat,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,0,fatigue,shortness of Breath,Loss of Taste,0,sore Throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,fatigue,0,Loss of Taste,Loss of Smell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,fatigue,0,0,0,0,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,0,0,shortness of Breath,Loss of Taste,Loss of Smell,sore Throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,0,0,0,Loss of Smell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,0,0,0,0,0,sore Throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,cough,fatigue,0,0,0,sore Throat,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,fatigue,shortness of Breath,Loss of Taste,0,sore Throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,0,0,0,Loss of Taste,Loss of Smell,sore Throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,0,shortness of Breath,Loss of Taste,0,0,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,cough,fatigue,0,0,Loss of Smell,0,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,cough,fatigue,shortness of Breath,0,0,sore Throat,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,0,shortness of Breath,0,0,sore Throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,0,fatigue,0,Loss of Taste,Loss of Smell,sore Throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,0,fatigue,0,Loss of Taste,0,0,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,0,shortness of Breath,0,Loss of Smell,sore Throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,0,fatigue,0,Loss of Taste,0,sore Throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,cough,0,shortness of Breath,Loss of Taste,Loss of Smell,0,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,cough,fatigue,shortness of Breath,0,Loss of Smell,sore Throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,0,shortness of Breath,Loss of Taste,0,0,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,cough,0,shortness of Breath,Loss of Taste,0,0,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,cough,fatigue,0,Loss of Taste,Loss of Smell,sore Throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,0,fatigue,shortness of Breath,Loss of Taste,Loss of Smell,sore Throat,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,0,fatigue,0,0,0,0,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,cough,fatigue,0,Loss of Taste,Loss of Smell,sore Throat,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,0,shortness of Breath,0,Loss of Smell,sore Throat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,cough,fatigue,shortness of Breath,Loss of Taste,0,0,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,fatigue,0,0,Loss of Smell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,0,0,0,Loss of Taste,Loss of Smell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,fatigue,0,0,Loss of Smell,0,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,0,shortness of Breath,0,0,sore Throat,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,cough,0,shortness of Breath,0,Loss of Smell,sore Throat,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,cough,fatigue,shortness of Breath,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+fever,cough,0,0,Loss of Taste,0,0,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corona
+0,0,0,0,0,0,0,Headache,nausea,0,0,vision problems,speech difficulties,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,nausea,vomiting,0,0,speech difficulties,balance problems,personality changes,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,0,0,vomiting,seizures,vision problems,0,0,personality changes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,nausea,0,seizures,vision problems,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,Headache,0,0,seizures,vision problems,0,balance problems,personality changes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,0,nausea,0,seizures,0,0,balance problems,personality changes,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,0,0,vomiting,seizures,vision problems,speech difficulties,0,0,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,Headache,0,vomiting,0,0,0,balance problems,0,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,nausea,0,seizures,0,0,balance problems,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,0,0,vomiting,seizures,vision problems,0,balance problems,personality changes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,0,vomiting,seizures,0,speech difficulties,balance problems,0,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,nausea,0,seizures,vision problems,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,0,0,0,0,0,speech difficulties,0,personality changes,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,Headache,nausea,vomiting,0,0,speech difficulties,balance problems,personality changes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,nausea,vomiting,0,0,0,balance problems,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,0,0,seizures,vision problems,0,balance problems,personality changes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,0,0,0,0,vision problems,0,balance problems,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,0,0,vomiting,0,0,speech difficulties,balance problems,personality changes,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,0,0,vomiting,seizures,vision problems,0,balance problems,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,Headache,nausea,vomiting,0,0,speech difficulties,0,0,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,0,vomiting,seizures,vision problems,speech difficulties,balance problems,0,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,Headache,0,0,seizures,vision problems,0,0,personality changes,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,nausea,0,seizures,0,0,balance problems,personality changes,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,nausea,0,seizures,0,0,balance problems,personality changes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,0,nausea,vomiting,seizures,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,0,vomiting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,Headache,nausea,0,0,0,0,0,personality changes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,Headache,0,0,seizures,vision problems,0,0,personality changes,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,0,0,0,0,0,speech difficulties,0,0,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,nausea,0,seizures,vision problems,0,balance problems,personality changes,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,Headache,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,0,0,0,0,vision problems,speech difficulties,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,Headache,0,0,0,vision problems,speech difficulties,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,0,0,vomiting,0,0,0,0,personality changes,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,0,vomiting,seizures,vision problems,0,0,0,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,Headache,nausea,vomiting,seizures,vision problems,0,balance problems,personality changes,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,Headache,nausea,vomiting,seizures,vision problems,speech difficulties,0,0,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,0,vomiting,seizures,0,0,balance problems,0,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,Headache,nausea,0,0,0,0,0,personality changes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,Headache,nausea,vomiting,seizures,vision problems,speech difficulties,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,Headache,0,vomiting,0,0,0,0,personality changes,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,Headache,nausea,vomiting,0,0,speech difficulties,balance problems,personality changes,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,Headache,nausea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,Headache,0,0,0,0,speech difficulties,balance problems,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,Headache,nausea,0,0,0,speech difficulties,0,0,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,Headache,0,vomiting,0,vision problems,0,balance problems,personality changes,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,0,vomiting,0,0,0,0,personality changes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,Headache,nausea,0,0,0,speech difficulties,0,personality changes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,fatigue,0,0,0,0,0,nausea,vomiting,seizures,0,speech difficulties,balance problems,0,Memory Loss,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brain tumor
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,Confusion with Time or Place,0,New Problems with Words,Misplacing Things,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Confusion with Time or Place,0,0,Misplacing Things,Withdrawal from Work or Social Activities,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,0,Trouble Understanding Visual Images,0,0,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,Confusion with Time or Place,Trouble Understanding Visual Images,0,Misplacing Things,0,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Trouble Understanding Visual Images,0,Misplacing Things,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,0,Trouble Understanding Visual Images,New Problems with Words,0,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,0,0,0,0,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,Confusion with Time or Place,0,New Problems with Words,Misplacing Things,Withdrawal from Work or Social Activities,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,Confusion with Time or Place,0,0,0,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,0,0,New Problems with Words,0,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Confusion with Time or Place,0,New Problems with Words,0,Withdrawal from Work or Social Activities,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,Confusion with Time or Place,Trouble Understanding Visual Images,New Problems with Words,Misplacing Things,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Trouble Understanding Visual Images,New Problems with Words,Misplacing Things,0,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Trouble Understanding Visual Images,0,0,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,Confusion with Time or Place,0,New Problems with Words,Misplacing Things,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,0,Trouble Understanding Visual Images,New Problems with Words,Misplacing Things,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,New Problems with Words,Misplacing Things,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,Confusion with Time or Place,Trouble Understanding Visual Images,0,0,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Trouble Understanding Visual Images,New Problems with Words,Misplacing Things,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Confusion with Time or Place,Trouble Understanding Visual Images,0,0,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,Confusion with Time or Place,Trouble Understanding Visual Images,0,0,0,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,Confusion with Time or Place,Trouble Understanding Visual Images,New Problems with Words,Misplacing Things,Withdrawal from Work or Social Activities,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Confusion with Time or Place,0,0,0,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Trouble Understanding Visual Images,New Problems with Words,Misplacing Things,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,0,Trouble Understanding Visual Images,0,Misplacing Things,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Trouble Understanding Visual Images,0,Misplacing Things,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Confusion with Time or Place,Trouble Understanding Visual Images,0,0,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,0,0,0,Misplacing Things,Withdrawal from Work or Social Activities,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,0,Trouble Understanding Visual Images,New Problems with Words,Misplacing Things,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,Confusion with Time or Place,Trouble Understanding Visual Images,0,0,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Confusion with Time or Place,0,0,0,Withdrawal from Work or Social Activities,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,New Problems with Words,0,Withdrawal from Work or Social Activities,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Confusion with Time or Place,0,New Problems with Words,Misplacing Things,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,0,Trouble Understanding Visual Images,0,Misplacing Things,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,0,Trouble Understanding Visual Images,0,0,0,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,0,0,New Problems with Words,Misplacing Things,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,Confusion with Time or Place,0,New Problems with Words,Misplacing Things,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,0,Trouble Understanding Visual Images,0,Misplacing Things,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Confusion with Time or Place,0,New Problems with Words,Misplacing Things,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,0,0,0,Misplacing Things,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Confusion with Time or Place,0,New Problems with Words,0,Withdrawal from Work or Social Activities,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,0,Trouble Understanding Visual Images,New Problems with Words,Misplacing Things,0,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Trouble Understanding Visual Images,New Problems with Words,0,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Misplacing Things,0,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,Confusion with Time or Place,Trouble Understanding Visual Images,New Problems with Words,0,Withdrawal from Work or Social Activities,Changes in Mood and Personality,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,Confusion with Time or Place,Trouble Understanding Visual Images,0,0,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Memory Loss,Confusion with Time or Place,Trouble Understanding Visual Images,0,0,Withdrawal from Work or Social Activities,0,0,0,0,0,0,0,0,0,Alzheimers
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,breast pain,0,0,swelling in breast,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,nipple discharge,0,0,0,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,swelling in breast,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,breast pain,nipple discharge,0,swelling in breast,changes in nipple,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,breast pain,0,0,0,changes in nipple,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,breast pain,0,0,swelling in breast,changes in nipple,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,skin changes,swelling in breast,changes in nipple,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,breast pain,nipple discharge,skin changes,0,0,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,skin changes,0,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,0,nipple discharge,skin changes,swelling in breast,changes in nipple,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,breast pain,nipple discharge,skin changes,0,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,breast pain,nipple discharge,skin changes,0,0,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,breast pain,nipple discharge,skin changes,0,changes in nipple,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,nipple discharge,skin changes,0,0,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,breast pain,0,0,0,changes in nipple,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,breast pain,nipple discharge,0,swelling in breast,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,nipple discharge,0,0,0,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,0,nipple discharge,skin changes,0,changes in nipple,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,swelling in breast,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,0,nipple discharge,skin changes,swelling in breast,changes in nipple,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,nipple discharge,0,0,changes in nipple,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,0,nipple discharge,skin changes,swelling in breast,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,breast pain,nipple discharge,0,0,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,breast pain,nipple discharge,skin changes,swelling in breast,changes in nipple,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,breast pain,nipple discharge,skin changes,0,changes in nipple,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,breast pain,0,0,0,0,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,nipple discharge,0,swelling in breast,changes in nipple,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,0,nipple discharge,skin changes,0,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,breast pain,0,skin changes,swelling in breast,changes in nipple,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,0,nipple discharge,0,0,0,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,breast pain,0,skin changes,0,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,breast pain,0,0,0,changes in nipple,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,breast pain,nipple discharge,0,0,0,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,skin changes,0,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,nipple discharge,0,swelling in breast,changes in nipple,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,0,0,skin changes,0,changes in nipple,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,breast pain,0,skin changes,swelling in breast,changes in nipple,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,breast pain,nipple discharge,0,swelling in breast,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,breast pain,0,skin changes,0,changes in nipple,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,breast pain,nipple discharge,0,swelling in breast,0,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,breast pain,nipple discharge,0,0,changes in nipple,redness or pitting,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,breast pain,nipple discharge,skin changes,swelling in breast,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,breast pain,0,0,swelling in breast,changes in nipple,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,breast pain,0,0,swelling in breast,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,breast pain,nipple discharge,0,swelling in breast,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,0,nipple discharge,skin changes,swelling in breast,changes in nipple,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,breast pain,nipple discharge,0,swelling in breast,0,0,,Breast cancer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lump in breast,breast pain,nipple discharge,skin changes,0,changes in nipple,redness or pitting,,Breast cancer
